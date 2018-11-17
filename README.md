@@ -1,0 +1,2 @@
+# git_learning_project_1
+learning_purpose
